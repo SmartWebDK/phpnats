@@ -5,7 +5,8 @@ phpnats
 
 | Master  | Develop |
 | ------------- | ------------- |
-| [![Build Status](https://travis-ci.org/repejota/phpnats.png?branch=master)](https://travis-ci.org/repejota/phpnats)  | [![Build Status](https://travis-ci.org/repejota/phpnats.png?branch=develop)](https://travis-ci.org/repejota/phpnats)  |
+| [![Build Status](https://travis-ci.org/repejota/phpnats.png?branch=master)](https://travis-ci.org/repejota/phpnats) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSmartWebDK%2Fphpnats.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSmartWebDK%2Fphpnats?ref=badge_shield)
+ | [![Build Status](https://travis-ci.org/repejota/phpnats.png?branch=develop)](https://travis-ci.org/repejota/phpnats)  |
 
 **Coverage**
 
@@ -194,3 +195,7 @@ License
 -------
 
 MIT, see [LICENSE](LICENSE)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSmartWebDK%2Fphpnats.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSmartWebDK%2Fphpnats?ref=badge_large)
